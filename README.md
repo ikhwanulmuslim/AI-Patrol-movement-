@@ -1,6 +1,6 @@
 # AI-Patrol-movement-
 
-*Artikel Refrensi :https://youtu.be/WWf1Lz5McGw
+*Artikel Refrensi :
 
 
-*Link video Demo & Tutorial : 
+*Link video Demo & Tutorial : https://youtu.be/WWf1Lz5McGw
